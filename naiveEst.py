@@ -34,6 +34,10 @@ data_file = "data.txt"
 output_file = "output.txt"
 temp_output_file = "tmp.txt"
 
+
+
+
+
 # parameter configurations
 hypercube_h = 2.0
 
